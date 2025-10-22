@@ -51,3 +51,4 @@ Insert into visit(visit_date,visit_time,doctor_id,patient_id,cost) values('2004-
 Insert into visit(visit_date,visit_time,doctor_id,patient_id,cost) values('2004-02-25','11:00','2','5',100);
 Insert into visit(visit_date,visit_time,doctor_id,patient_id,cost) values('2004-02-26','14:00','5','1',35);
 Insert into visit(visit_date,visit_time,doctor_id,patient_id,cost) values('2004-03-01','14:00','1','2',50);
+
